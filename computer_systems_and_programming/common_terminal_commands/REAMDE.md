@@ -1,0 +1,4 @@
+- mkdir common_terminal_commands 
+- touch test.txt
+- echo TEXT(copied from a google website) > test.txt
+- sed 's/information/info/' test.txt
