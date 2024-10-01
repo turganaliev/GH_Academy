@@ -46,7 +46,6 @@ public class Main {
         // OK, but not so easy to understand what m actually is
         int m = 60;
 
-
         //Student data
         String studentName = "John Doe";
         int studentID = 15;
@@ -60,7 +59,6 @@ public class Main {
         System.out.println("Student age: " + studentAge);
         System.out.println("Student fee: " + studentFee);
         System.out.println("Student grade: " + studentGrade);
-
 
         // Create integer variables
         int length = 4;
